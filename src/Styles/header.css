@@ -1,0 +1,42 @@
+.header {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 10px;
+    width: 100%;
+    background: transparent;
+}
+
+.header-logo {
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    color: #eb2929;
+    border-radius: 50%;
+    background-color: #ffffff;
+    display: inline-block;
+    font-size: 28px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.fb {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 100%;
+    color: white;
+}
+
+.google {
+    opacity: 1 !important;
+    width: 100%;
+    color: black !important;
+    letter-spacing: 1px;
+    border-radius: 5px !important;
+    text-align: center;
+    font-size: 18px !important
+}
